@@ -56,8 +56,8 @@ export default function Footer() {
         {/* Country and Copyright */}
         <div className="flex mb-4 md:mb-0 gap-2">
           <IoLocationOutline className='' />
-          <p>India</p>
-          <p>© 2023 Nike, Inc. All Rights Reserved</p>
+          <p>Pakistan</p>
+          <p>© 2024 Nike, Inc. All Rights Reserved</p>
         </div>
 
         {/* Links */}

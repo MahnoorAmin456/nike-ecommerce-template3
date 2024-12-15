@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import Image from "next/image"
 import Link from "next/link"
-export default function Joinn(){
+export default function joinus(){
     return (
         <main>
             <section className="my-20">
